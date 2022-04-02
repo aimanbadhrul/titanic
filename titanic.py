@@ -8,7 +8,7 @@ st.sidebar.write("""
 A classification demo using titanic dataset
 """)
 
-st.sidebar.write ("For more info, please contact:")
+st.sidebar.write ("Contact me here:")
 
 st.sidebar.write("<a href='https://www.linkedin.com/in/aimanbadhrul/'>Aiman Badhrulhisham </a>", unsafe_allow_html=True)
 
